@@ -19,3 +19,4 @@ This project is a robust automation framework designed to test the login functio
 - **Headless Execution:** Designed to run on Linux servers without a GUI.
 - **Dynamic Waits:** Implemented `WebDriverWait` to handle synchronization issues.
 - **CI/CD Integration:** Automated test execution on every `push` to the master branch.
+Resolved environment-specific issues between Windows and Linux (GitHub Actions) by implementing headless configurations and flexible PYTHONPATH management.
