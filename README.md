@@ -1,22 +1,18 @@
-# Selenium POM Automation Suite 🚀
+# Hi, I'm Shamila! 👋
+### Software Quality Assurance Professional | Automation Engineer
 
-## 📌 Project Overview
-This project is a robust automation framework designed to test the login functionality of a web application. It uses the **Page Object Model (POM)** to ensure the code is maintainable, readable, and scalable.
+I specialize in building scalable automation frameworks that ensure software reliability and performance. With a background in Information Technology and experience in Healthcare IT, I bridge the gap between technical requirements and user needs.
 
-## 🛠️ Tech Stack
-* **Language:** Python 3.10
-* **Framework:** Pytest
-* **Library:** Selenium WebDriver
-* **CI/CD:** GitHub Actions
-* **Pattern:** Page Object Model (POM)
+## 🛠️ Technical Skills
+* **Languages:** Python, SQL
+* **Automation:** Selenium WebDriver, Playwright
+* **Frameworks:** Pytest, Page Object Model (POM)
+* **Tools:** Git, GitHub Actions, Postman, JMeter
+* **Domain Knowledge:** EMR/EHR Systems, Medical Billing
 
-## 🏗️ Framework Structure
-- `pages/`: Contains Page Objects (locators and actions).
-- `mytest/`: Contains test scripts and `conftest.py` for driver initialization.
-- `.github/workflows/`: CI/CD pipeline configuration.
+## 📈 Featured Automation Projects
+*List your projects here using the links from Step 1B*
 
-## 🚀 Key Features
-- **Headless Execution:** Designed to run on Linux servers without a GUI.
-- **Dynamic Waits:** Implemented `WebDriverWait` to handle synchronization issues.
-- **CI/CD Integration:** Automated test execution on every `push` to the master branch.
-Resolved environment-specific issues between Windows and Linux (GitHub Actions) by implementing headless configurations and flexible PYTHONPATH management.
+## 📫 Connect with me
+* LinkedIn: www.linkedin.com/in/shamila-naz-7b4a7a14
+  
